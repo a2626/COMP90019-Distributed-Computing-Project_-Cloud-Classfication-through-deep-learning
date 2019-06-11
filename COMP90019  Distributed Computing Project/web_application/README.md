@@ -4,7 +4,7 @@ The more detail can be found at https://cloud.google.com/solutions/creating-obje
 
 # Prerequisite
 * Google Cloud account
-* I Google Cloud Platform. The detail can be found at https://cloud.google.com/deployment-manager/docs/step-by-step-guide/installation-and-setup
+* Installed Google Cloud Platform. The detail can be found at https://cloud.google.com/deployment-manager/docs/step-by-step-guide/installation-and-setup
 
 # Instance Configuration
 * Machine types: 8vCPUs
