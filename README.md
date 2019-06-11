@@ -20,9 +20,25 @@ In this project, our goal is to use deep learning to detect the type of clouds o
 * web_application: I use this to demo my model.
 
 # System Environment
-OS: macOS 10.14.4
-RAM: 16GB
-CPU: Intel Core i7 2.6GHz
-GPU: Radeon Pro 450 2GB and Intel HD Graphics 530 1536 MB
+* OS: macOS 10.14.4
+* RAM: 16GB
+* CPU: Intel Core i7 2.6GHz
+* GPU: Radeon Pro 450 2GB and Intel HD Graphics 530 1536 MB
 
 # Project Steps
+1. Install TensorFlow GPU or CPU version and the releated package. The more detailed can be found at https://github.com/tensorflow/tensorflow
+
+2. Install TensorFlow Object Detection API. The more detailed can be found at https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
+
+3. Labelling images with LabelImg. The more detailed can be found at https://github.com/tzutalin/labelImg
+
+4. Prepare TFRecord
+
+5. Training through TensorFlow model zoo. The more detailed can be found at
+https://github.com/tensorflow/models Also, the new version of meta-architecture can be found at https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+
+6. Testing with TensorBoard
+
+7. Optimization 
+
+8. Export final model and implemented on Google Cloud to build a website
