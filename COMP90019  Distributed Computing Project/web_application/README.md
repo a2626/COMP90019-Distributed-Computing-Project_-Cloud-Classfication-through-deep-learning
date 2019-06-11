@@ -13,3 +13,4 @@ The more detail can be found at https://cloud.google.com/solutions/creating-obje
 1. Following this tutorial https://cloud.google.com/solutions/creating-object-detection-application-tensorflow?hl=en to set up the basic environment.
 2. Used this <code>gcloud compute scp </code> to replace our model with the demo model
 3. Check the result on the website
+4. The result can be found on my lived demo
