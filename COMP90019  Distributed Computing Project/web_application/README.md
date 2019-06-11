@@ -4,6 +4,11 @@ The more detail can be found at https://cloud.google.com/solutions/creating-obje
 
 # Prerequisite
 * Google Cloud account
+* Installing Google Cloud Platform. The detail can be found at https://cloud.google.com/deployment-manager/docs/step-by-step-guide/installation-and-setup
+
+# Instance Configuration
+* Machine types: 8vCPUs
+* Memory: 8GB
 
 # Useful Commnad on Google Cloud
 *  <code>gcloud compute ssh YOUR INSTANCE</code>
