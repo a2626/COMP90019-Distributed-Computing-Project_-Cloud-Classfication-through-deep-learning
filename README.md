@@ -1,7 +1,7 @@
 # COMP90019-Distributed-Computing-Project_-Cloud-Classfication-through-deep-learning
 
 # Project Title: Cloud Classification through Deep Learning
-In this project, our goal is to use deep learning to detect the type of clouds on the images. Currently, there are ten type of clouds in the sky, as following showed.
+In this project, our goal is to use deep learning to detect the type of clouds on the images. Currently, there are ten type of clouds in the sky, as following.
 1. cirrocumulus
 2. cirrostratus
 3. cirrus
